@@ -4,7 +4,7 @@ team:
   title: Our Team
   team_member:
   - name: Andrew Smigielski
-    image_webp: images/team/team-1.webp
+    image_webp: images/team/
     image: images/team/team-1.jpg
     designation: Lead Programmer
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
